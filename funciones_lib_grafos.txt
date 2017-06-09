@@ -1,0 +1,21 @@
+def grafo_aleatorio(num_nodos, prob):
+def tam_grafo(grafo):
+def aleatorio(num_nodos, prob):
+def indiceCluster_caminoCar(grafo):
+def aleatiorio2(num_nodos, prob):
+def calcula_C(grafo):
+def calcula_L(grafo):
+def calcula_grados(grafo):
+def adyacentes(grafo, vertice):
+def matrix_to_adyacent(grafo):
+def calcula_grados_rapido(grafo, limit):
+def get_distro(grados, tam_grafo):
+def busqueda_anchura(grafo, nodo_ini=0):
+def componentes_conexas(grafo):
+def componentes_conexas_nodo(grafo, nodo, cola):
+def aleatorio3(N, p):
+def create_mundo_pequeno (num_nodos, k, probabilidad):
+def mundo_pequeno (num_nodos, k, probabilidad):
+def mundo_pequeno_print (num_nodos, k, probabilidad):
+def libre_escala (num_inicial, num_final, num_ramas):
+def libre_escala_print (num_inicial, num_final, num_ramas, l=True):
